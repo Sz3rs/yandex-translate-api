@@ -1,4 +1,5 @@
-#Перевод текста через API яндекс-браузера
+<h1>Перевод текста через API Яндекс-браузера</h1>
+
 ```python
 from yandex_translater_custom import translate
 
